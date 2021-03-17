@@ -1,5 +1,6 @@
 # Product-Sales-Analysis-PBI
-Power BI Project: Product Sales Analysis Report
+Power BI Project
+Product Sales Analysis Report
 
 - Used SQL queries to extract data into Power BI and cleanse it to create the correct data model as per the project requirement.
 
