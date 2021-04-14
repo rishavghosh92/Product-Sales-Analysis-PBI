@@ -3,7 +3,7 @@ Power BI Project
 
 Product Sales Analysis Report
 
-- Used SQL queries to extract data into Power BI and cleanse it to create the correct data model as per the project requirement.
+- Used Excel data into Power BI and cleanse it to create the correct data model as per the project requirement.
 
 - Analyzed the problem statement and the project requirements to implement the correct statistical techniques required to create useful metrics and develop the correct visualisation of the customised dashboard by using Power BI report generation capabilities.
 
